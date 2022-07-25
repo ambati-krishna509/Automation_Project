@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables
-name="Srikrishna"
-s3_bucket="upgrade-saikrishna"
+name="Saikrishna"
+s3_bucket="upgrad-saikrishna"
 
 # update the ubuntu repositories
 apt update -y
